@@ -4,8 +4,8 @@ Luca Napolitano
 Passione Informatica
 
 
-.red {
+.red { Animatore presso villaggi turistici
     color:red;
-} Animatore presso villaggi turistici
+} 
 
 <font color="red">Graphic Designer presso Agenzia Visions</font>
