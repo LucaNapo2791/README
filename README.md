@@ -5,4 +5,5 @@ Passione Informatica
 
 
 <font color="red">Animatore presso villaggi turistici</font>
+
 <font color="red">Graphic Designer presso Agenzia Visions</font>
